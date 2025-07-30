@@ -18,22 +18,11 @@ This lab demonstrates a **redundant Layer 2 switching architecture** using Cisco
 - Fast failover in case of link failure
 - Layer 2 Access / Layer 3 Core design model
 
-## 📂 Files
-
-- `redundant-switching.pkt` – Cisco Packet Tracer simulation file
-- `config-commands.txt` – CLI configurations used (optional)
-- `topology-diagram.png` – Visual representation of the topology
-
 ## 💡 Learning Outcomes
 
 - Understand how enterprise campus networks implement redundancy using multiple switches.
 - Configure STP to ensure loop-free topologies.
 - Design fault-tolerant topologies with scalable VLAN-based architectures.
 - Get hands-on experience configuring Cisco switching infrastructure in simulated environments.
-
-## 🛠️ Tools Used
-
-- Cisco Packet Tracer
-- Cisco IOS CLI
 
 ---
