@@ -25,4 +25,6 @@ This lab demonstrates a **redundant Layer 2 switching architecture** using Cisco
 - Design fault-tolerant topologies with scalable VLAN-based architectures.
 - Get hands-on experience configuring Cisco switching infrastructure in simulated environments.
 
+![Lab](lab4.jpg)
+
 ---
